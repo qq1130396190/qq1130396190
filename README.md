@@ -4,8 +4,5 @@ GpT3.5设计UI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-qq1130396190/qq1130396190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 现有项目，text-generation-webui有Gradio库生成是AI框架UI汉化
+- streamlit库GPT3.5生成的UI
